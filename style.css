@@ -1,0 +1,12 @@
+.lamp-on {
+    display: none;
+}
+
+.btn {
+    background-color: #e7e123;
+    padding: 15px;
+    border-radius: 30%;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
